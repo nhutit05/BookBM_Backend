@@ -1,0 +1,16 @@
+{
+  "name": "bookbm",
+  "version": "1.0.0",
+  "description": "He thong quan ly muon sach",
+  "license": "ISC",
+  "author": "Vo Minh Nhut",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
